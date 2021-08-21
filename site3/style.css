@@ -1,0 +1,124 @@
+body{
+    margin: 0 auto;
+    max-width: 1200px;
+    height: 1200px;
+    background-image: url(background.png);
+}
+.services{
+    background-color: #ba1615;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+    height: 80px;
+    margin-bottom: 5px;
+    width: 250px;
+    margin-left: -18px;
+}
+.footer-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+    height: 90px;
+    text-decoration: underline;
+}
+.row{
+    margin: 0 auto;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    max-width: 1200px;
+    background-color: black;
+    color: white;
+}
+.text2{
+    color: azure;
+    font-size: 30px;
+    text-align: center;
+}
+.main-nav {
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+}
+.containermy{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    float: right;
+}
+.cont{
+    display: flex;
+}
+#myCarousel{
+    height: 200px;
+}
+.c{
+    flex:1;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+    color: azure;
+}
+.c:first-child{
+    margin-right: 10px;
+}
+.c2:first-child{
+    margin-right: 10px;
+}
+.marg{
+    margin-right: 10px;
+}
+.a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+    height: 60px;
+    margin: 1px;
+    flex: 1;
+    max-width: 200px;
+}
+.support{
+    float: right;
+    color: azure;
+    margin-top: 30px;
+    margin-right: 10px;
+    font-family: serif;
+}
+img {
+    margin: 0 auto;
+    max-height: 200px;
+}
+p{
+    text-align: end;
+}
+.number{
+    font-size: 25px;
+}
+a:hover{
+    text-decoration: none;
+    color: azure;
+    cursor: pointer;
+}
+.blue{
+    background-color: #3c80ed;
+}
+.green{
+    background-color: #5ba618
+}
+.yellow{
+    background-color: #d7ab27;
+}
+.purple{
+    background-color: #5132aa;
+}
+.orange{
+    background-color: #d24726;
+}
+.pink{
+    background-color: #ab328f;
+}
