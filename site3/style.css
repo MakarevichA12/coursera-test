@@ -1,7 +1,7 @@
 body{
     margin: 0 auto;
     max-width: 1200px;
-    height: 1200px;
+    
     background-image: url(background.png);
 }
 .services{
@@ -93,8 +93,11 @@ img {
     margin: 0 auto;
     max-height: 200px;
 }
-p{
-    text-align: end;
+p, h3{
+    text-align: left;
+    color: azure;
+    
+    
 }
 .number{
     font-size: 25px;
