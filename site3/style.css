@@ -89,10 +89,7 @@ footer {
     margin-right: 10px;
     font-family: serif;
 }
-img {
-    margin: 0 auto;
-    max-height: 200px;
-}
+
 p, h3{
     text-align: left;
     color: azure;
